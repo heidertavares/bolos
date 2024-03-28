@@ -1,0 +1,53 @@
+
+body{
+    background-color: cadetblue;
+}
+
+.bolos{
+    border: 5px solid black;
+    background-color: pink;
+    border-radius: 0.5rem;
+    margin-top: 500px;
+}
+
+.texto{
+    border: 5px solid black;
+    border-radius: 0.5rem;
+    background-color: pink;
+    align-self: center;
+    padding: 10px;
+    font-weight: 800;
+    margin-top: 50px;
+    font-size: larger;
+}
+.cardapio{
+    border: 5px solid black;
+    background-color: pink;
+    border-radius: 0.5rem;
+}
+
+.paçoca{
+    
+    border: 5px solid black;
+    width: 160px;
+    background-color: pink;
+    border-radius: 0.5rem; 
+}
+
+
+.choconinho{
+    border: 5px solid black;
+    width: 180px;
+    background-color: pink;
+    border-radius: 0.5rem; 
+}
+
+.ingredientes{
+    font-size: larger;
+    font-weight: 900;
+}
+
+.ingredientes2{
+    font-size: larger;
+    font-weight: 900;
+}
